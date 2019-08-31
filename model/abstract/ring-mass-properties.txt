@@ -1,0 +1,34 @@
+Mass properties of ring
+     Configuration: Default
+     Coordinate system: -- default --
+
+Density = 0.00 grams per cubic millimeter
+
+Mass = 119.01 grams
+
+Volume = 116676.30 cubic millimeters
+
+Surface area = 45354.60  square millimeters
+
+Center of mass: ( millimeters )
+	X = 0.00
+	Y = 0.00
+	Z = 0.00
+
+Principal axes of inertia and principal moments of inertia: ( grams *  square millimeters )
+Taken at the center of mass.
+	 Ix = ( 1.00,  0.00,  0.00)   	Px = 378587.71
+	 Iy = ( 0.00,  1.00,  0.00)   	Py = 378587.71
+	 Iz = ( 0.00,  0.00,  1.00)   	Pz = 725439.46
+
+Moments of inertia: ( grams *  square millimeters )
+Taken at the center of mass and aligned with the output coordinate system.
+	Lxx = 378587.71	Lxy = 0.00	Lxz = 0.00
+	Lyx = 0.00	Lyy = 378587.71	Lyz = 0.00
+	Lzx = 0.00	Lzy = 0.00	Lzz = 725439.46
+
+Moments of inertia: ( grams *  square millimeters )
+Taken at the output coordinate system.
+	Ixx = 378587.71	Ixy = 0.00	Ixz = 0.00
+	Iyx = 0.00	Iyy = 378587.71	Iyz = 0.00
+	Izx = 0.00	Izy = 0.00	Izz = 725439.46
